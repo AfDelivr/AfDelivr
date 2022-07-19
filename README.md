@@ -56,8 +56,5 @@ DNS 预读取是一种使浏览器主动执行 DNS 解析以达到优化加载�
 在此也希望能够造福各位博友！！谢谢
 
 ## 打赏ADN
-
-![微信](media/WechatPay.jpg)
-
-![支付宝](media/Alipay.jpg)
+<img src="media/WechatPay.jpg" alt="微信支付" width="50%" /> <img src="media/Alipay.jpg" alt="支付宝" width="50%" />
 
