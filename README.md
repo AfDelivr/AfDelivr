@@ -1,4 +1,4 @@
-## 含义与工作方式，加速Feature ##
+## 含义与工作方式，加速Feature 
 
 ADN，就是A fast CDN，稳中求快
 
@@ -7,7 +7,7 @@ ADN，就是A fast CDN，稳中求快
 它的工作方式是这样的：
 NPM加速服务：
 
-通过镜像回源的方式，将请求文件储存至USS，（类似于jsd的处理方式，可参考此文章：[ADN加速服务工作流程][https://arcitcgn.cn/185.html]
+通过镜像回源的方式，将请求文件储存至USS，（类似于jsd的处理方式，可参考此文章：[ADN加速服务工作流程](https://arcitcgn.cn/185.html)
 
 并同时在国内同时接入腾讯云，百度云，又拍云加速多家CDN共同加速（后续我们会考虑仅接入一家CDN)，
 
@@ -19,23 +19,23 @@ NPM加速服务：
 除部分西部地区外，平均延迟≤25ms，平均响应IP数量在48-65之间（可能出现变化，后续考虑单一接入CDN），
 ![62d155a35f880.png][7]
 
-## 使用方法 ##
+## 使用方法 
 
 npm地址：
-
+```
     https://adn.arcitcgn.cn/npm/包名@版本号/文件名
-
+```
 如何将资源上传到[npm][8]，可以参考以下两篇文章：：
-[npm图床的使用技巧][https://akilar.top/posts/3e956346/]
-[利用GitHub Action自动发布你的静态资源到npm][https://bowenyoung.cn/posts/action-npm/]
+[npm图床的使用技巧](https://akilar.top/posts/3e956346/)
+[利用GitHub Action自动发布你的静态资源到npm](https://bowenyoung.cn/posts/action-npm/)
 **小小的“黑科技”：**
 DNS预解析：DNS 预读取是一种使浏览器主动执行 DNS 解析以达到优化加载速度的功能。
 将本加速服务融入DNS预解析，只需要在您网站的`<meta charset="UTF-8">`
 后添加：
-
+```
     <link rel="dns-prefetch" href="//adn.arcitcgn.cn" />
-
-## 结尾 ##
+```
+## 结尾 
 
 公益事业的蓬勃发展离不开我许多朋友的支持与帮助，
 
@@ -46,7 +46,7 @@ DNS预解析：DNS 预读取是一种使浏览器主动执行 DNS 解析以达�
 补充：关于滥用行为
 
 滥用指胡乱地或过度地使用，我们会在CDN后台追踪高流量使用的网页，判断其合法性；如出现滥用行为，我们会进行屏蔽“拉黑”处理。
-各位网友如果遇到滥用CDN的行为，可向：i@arcitcgn.cn 发送邮件。
+各位网友如果遇到滥用CDN的行为，可向：`i@arcitcgn.cn` 发送邮件。
 
 在此也希望能够造福各位博友！！谢谢
 
