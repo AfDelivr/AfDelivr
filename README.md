@@ -20,7 +20,7 @@ NPM加速服务：
 ![](media/4.png)
 
 # 使用方法 
-
+## 使用前，请您充分阅读并同意[ADN公益服务使用协议](https://arcitcgn.cn/189.html)
 ## npm包使用方法
 
 npm地址：
