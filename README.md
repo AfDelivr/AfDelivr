@@ -55,6 +55,6 @@ DNS 预读取是一种使浏览器主动执行 DNS 解析以达到优化加载�
 
 在此也希望能够造福各位博友！！谢谢
 
-## 打赏ADN：如果您希望我们的项目更好地走下去，您可以打赏我们；您可以前往我们的[博客页面](https://arcitcgn.cn/171.html)底部按钮打赏
+## 赞助ADN：如果您希望我们的项目更好地走下去，您可以赞助我们；您可以前往我们的[赞助页面](https://arcitcgn.cn/thanks.html)赞助我们
 <img src="media/WechatPay.jpg" alt="微信支付" width="40%" align="left" /> <img src="media/Alipay.jpg" alt="支付宝" width="40%" align="right" />
 
