@@ -51,10 +51,10 @@ DNS 预读取是一种使浏览器主动执行 DNS 解析以达到优化加载�
 ## 补充：关于滥用行为
 
 滥用指胡乱地或过度地使用，我们会在CDN后台追踪高流量使用的网页，判断其合法性；如出现滥用行为(**包括但不限于：将ADN作为您的全站图床**)，我们会进行屏蔽“拉黑”处理。
-各位网友如果遇到滥用CDN的行为，可向：[adn@arcitcgn.cn](mailto:adn@arcitcgn.cn) 发送邮件。
+各位网友如果遇到滥用CDN的行为，可向：[adn@arcitcgn.cn](mailto:adn@arcitcgn.cn) 发送邮件，详见我们的[使用协议](https://arcitcgn.cn/189.html)
 
 在此也希望能够造福各位博友！！谢谢
 
-## 打赏ADN
+## 打赏ADN：如果您希望我们的项目更好地走下去，您可以打赏我们；您可以前往我们的[博客页面](https://arcitcgn.cn/171.html)底部按钮打赏
 <img src="media/WechatPay.jpg" alt="微信支付" width="40%" align="left" /> <img src="media/Alipay.jpg" alt="支付宝" width="40%" align="right" />
 
