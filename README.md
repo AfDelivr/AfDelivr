@@ -25,7 +25,7 @@ NPM加速服务：
 
 npm地址：
 ```
-https://adn.arcitcgn.cn/npm/包名@版本号/文件名
+https://*.npm.arcitcgn.cn/包名@版本号/文件名
 ```
 如何将资源上传到[npm](https://www.npmjs.com/)，可以参考以下两篇文章：
 
@@ -38,8 +38,9 @@ DNS 预读取是一种使浏览器主动执行 DNS 解析以达到优化加载�
 将本加速服务融入DNS预解析，只需要在您网站的`<meta charset="UTF-8">`
 后添加：
 ```
-<link rel="dns-prefetch" href="//adn.arcitcgn.cn" />
+<link rel="dns-prefetch" href="//#.npm.arcitcgn.cn" />
 ```
+（#为您的自定义内容
 # 结尾 
 
 公益事业的蓬勃发展离不开我许多朋友的支持与帮助，
