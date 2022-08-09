@@ -1,6 +1,6 @@
-# 含义与工作方式，加速Feature 
+# 含义与工作方式，加速Features 
 
-ADN，就是A fast CDN，稳中求快
+AfDelivr ，A fast CDN，稳中求快
 
 相关设置：所有文件缓存60天，强制https
 
@@ -20,7 +20,7 @@ NPM加速服务：
 ![](media/4.png)
 
 # 使用方法 
-## 使用前，请您充分阅读并同意[ADN公益服务使用协议](https://arcitcgn.cn/189.html)
+## 使用前，请您充分阅读并同意[AfDelivr公益服务使用协议](https://arcitcgn.cn/189.html)
 ## npm包使用方法
 
 npm地址：
@@ -38,7 +38,7 @@ DNS 预读取是一种使浏览器主动执行 DNS 解析以达到优化加载�
 将本加速服务融入DNS预解析，只需要在您网站的`<meta charset="UTF-8">`
 后添加：
 ```
-<link rel="dns-prefetch" href="//#.npm.arcitcgn.cn" />
+<link rel="dns-prefetch" href="//npm.arcitcgn.cn" />
 ```
 （#为您的自定义内容
 # 结尾 
