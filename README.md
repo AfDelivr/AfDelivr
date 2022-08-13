@@ -25,7 +25,7 @@ NPM加速服务：
 
 npm地址：
 ```
-https://*.npm.arcitcgn.cn/包名@版本号/文件名
+https://cdn.afdelivr.top/npm/包名@版本号/文件名
 ```
 如何将资源上传到[npm](https://www.npmjs.com/)，可以参考以下两篇文章：
 
@@ -38,24 +38,13 @@ DNS 预读取是一种使浏览器主动执行 DNS 解析以达到优化加载�
 将本加速服务融入DNS预解析，只需要在您网站的`<meta charset="UTF-8">`
 后添加：
 ```
-<link rel="dns-prefetch" href="//npm.arcitcgn.cn" />
+<link rel="dns-prefetch" href="//cdn.afdelivr.top" />
 ```
-（#为您的自定义内容
-# 结尾 
-
-公益事业的蓬勃发展离不开我许多朋友的支持与帮助，
 
 在此特别鸣谢[Teacher Du](https://dusays.com/)，[檐牙](https://www.zxma.top/)，[BeaCox](https://bowenyoung.cn/)，[Felix](https://www.felixchen0707.cn/)和[小邢同学](https://aboke.net/)，
 
-对于公益事业可能会出现的艰难险阻，我会尽自己一切力量地去战胜（也请各位网友规范使用，不要用做任何的非法用途），正如互联网总是在惊涛骇浪发展过来的！
 
-## 补充：关于滥用行为
 
-滥用指胡乱地或过度地使用，我们会在CDN后台追踪高流量使用的网页，判断其合法性；如出现滥用行为(**包括但不限于：将ADN作为您的全站图床**)，我们会进行屏蔽“拉黑”处理。
-各位网友如果遇到滥用CDN的行为，可向：[adn@arcitcgn.cn](mailto:adn@arcitcgn.cn) 发送邮件，详见我们的[使用协议](https://arcitcgn.cn/189.html)
-
-在此也希望能够造福各位博友！！谢谢
-
-## 赞助ADN：如果您希望我们的项目更好地走下去，您可以赞助我们；您可以前往我们的[赞助页面](https://arcitcgn.cn/thanks.html)赞助我们
+## 赞助AfDelivr：如果您希望我们的项目更好地走下去，您可以赞助我们；您可以前往我们的[赞助页面](https://arcitcgn.cn/thanks.html)赞助我们
 <img src="media/WechatPay.jpg" alt="微信支付" width="40%" align="left" /> <img src="media/Alipay.jpg" alt="支付宝" width="40%" align="right" />
 
